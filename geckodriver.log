@@ -1,0 +1,1251 @@
+1691317129121	geckodriver	INFO	Listening on 127.0.0.1:56362
+1691317132183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile5P0qfS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691317132556	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -proxy-server\n"
+1691317132678	Marionette	INFO	Listening on port 56376
+WebDriver BiDi listening on ws://127.0.0.1:56363
+Read port: 56376
+1691317132877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56363/devtools/browser/6699baec-6ca3-40bb-99ca-6de8ea15b79a
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1691317138718	Marionette	INFO	Stopped listening on port 56376
+Dynamically enable window occlusion 1
+1691317264680	geckodriver	INFO	Listening on 127.0.0.1:56621
+1691317267739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileJTRKsy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691317268018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+console.error: "Warning: unrecognized command line flag -proxy-server\n"
+1691317268126	Marionette	INFO	Listening on port 56634
+WebDriver BiDi listening on ws://127.0.0.1:56622
+Read port: 56634
+1691317268329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56622/devtools/browser/f9900ebf-874f-4a06-83ee-80dccbfb25ca
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1691317274191	Marionette	INFO	Stopped listening on port 56634
+Dynamically enable window occlusion 1
+1691318554649	geckodriver	INFO	Listening on 127.0.0.1:58575
+1691318557703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile96Lvag"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691318557979	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691318558097	Marionette	INFO	Listening on port 58588
+WebDriver BiDi listening on ws://127.0.0.1:58576
+Read port: 58588
+1691318558302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58576/devtools/browser/71f7fc0c-f954-4e9d-9088-b2835a11df54
+1691318726428	geckodriver	INFO	Listening on 127.0.0.1:58862
+1691318729474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilenmWK8T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691318729745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691318729859	Marionette	INFO	Listening on port 58874
+WebDriver BiDi listening on ws://127.0.0.1:58863
+Read port: 58874
+1691318730092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58863/devtools/browser/8025fe35-a9d7-463a-838d-8565f67b6843
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+1691319056780	geckodriver	INFO	Listening on 127.0.0.1:59386
+1691319059824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile0YhRwS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319060090	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319060200	Marionette	INFO	Listening on port 59398
+WebDriver BiDi listening on ws://127.0.0.1:59387
+Read port: 59398
+1691319060411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59387/devtools/browser/5111e491-cc48-4490-9a51-e51cdb9c3db2
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691319458847	geckodriver	INFO	Listening on 127.0.0.1:60196
+1691319461897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileTnuE0T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319462206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319462442	Marionette	INFO	Listening on port 60209
+WebDriver BiDi listening on ws://127.0.0.1:60197
+Read port: 60209
+1691319462674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60197/devtools/browser/c0edd852-9e6a-41a6-b70f-02be0c156974
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691319651127	geckodriver	INFO	Listening on 127.0.0.1:60523
+1691319654183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileXVlwwm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319654461	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319654578	Marionette	INFO	Listening on port 60535
+WebDriver BiDi listening on ws://127.0.0.1:60524
+Read port: 60535
+1691319654779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60524/devtools/browser/9a10e259-e090-4398-aace-69815e7c6a14
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691319663391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1691319683182	geckodriver	INFO	Listening on 127.0.0.1:60604
+1691319686237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilecX1Dn0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319686510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319686626	Marionette	INFO	Listening on port 60619
+WebDriver BiDi listening on ws://127.0.0.1:60605
+Read port: 60619
+1691319686829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60605/devtools/browser/37f27e49-c45c-481b-902e-6675d56c279d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691319820117	geckodriver	INFO	Listening on 127.0.0.1:60843
+1691319823166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileNAsNWU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319823435	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319823548	Marionette	INFO	Listening on port 60860
+WebDriver BiDi listening on ws://127.0.0.1:60844
+Read port: 60860
+1691319823743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60844/devtools/browser/9976d434-0bef-4f06-9831-aa25e00733fe
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691319992838	Marionette	INFO	Stopped listening on port 60860
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileT0k03r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691319993157	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691319993475	Marionette	INFO	Listening on port 61152
+WebDriver BiDi listening on ws://127.0.0.1:61137
+Read port: 61152
+1691319993674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61137/devtools/browser/b05383d4-f5fd-417e-b6db-f3ffb8f8b426
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691320056323	geckodriver	INFO	Listening on 127.0.0.1:61283
+1691320059372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileB7OUA8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691320059653	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691320059766	Marionette	INFO	Listening on port 61296
+WebDriver BiDi listening on ws://127.0.0.1:61284
+Read port: 61296
+1691320059954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61284/devtools/browser/1af65e3c-c3f1-4cc3-ae13-121c70c0547e
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691320990889	geckodriver	INFO	Listening on 127.0.0.1:62707
+1691320993926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileJAXmf3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691320994218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691320994499	Marionette	INFO	Listening on port 62722
+WebDriver BiDi listening on ws://127.0.0.1:62708
+Read port: 62722
+1691320994746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62708/devtools/browser/be74dbbd-3b27-4af6-8c9f-439a306a7ad3
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691322716043	Marionette	INFO	Stopped listening on port 62722
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileGqPYoq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691322032057	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691322032183	Marionette	INFO	Listening on port 64267
+WebDriver BiDi listening on ws://127.0.0.1:64255
+Read port: 64267
+1691322032380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64255/devtools/browser/a6e597e5-9215-4a1b-84ea-beb7d423ece1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691322716566	Marionette	INFO	Stopped listening on port 64267
+Dynamically enable window occlusion 1
+n 127.0.0.1:65367
+1691322592700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilecgNNZr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691322593048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691322593167	Marionette	INFO	Listening on port 65381
+WebDriver BiDi listening on ws://127.0.0.1:65368
+Read port: 65381
+1691322593364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65368/devtools/browser/e7773aa5-5ed4-4d5d-954d-38f02b0f38ab
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691322687620	Marionette	INFO	Stopped listening on port 65381
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilelhnD0T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691322687343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691322687841	Marionette	INFO	Listening on port 49221
+WebDriver BiDi listening on ws://127.0.0.1:49206
+Read port: 49221
+1691322688122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49206/devtools/browser/895be031-5976-4d2b-a5ad-4f1628780754
+1691322717667	Marionette	INFO	Stopped listening on port 49221
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1054 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1093 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4440 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4274 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3374 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3417 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3362 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1054 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1093 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 771 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3425 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3362 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+1691322717731	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1691323611893	geckodriver	INFO	Listening on 127.0.0.1:51000
+1691323614941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile2stfTj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691323615210	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691323615339	Marionette	INFO	Listening on port 51014
+WebDriver BiDi listening on ws://127.0.0.1:51001
+Read port: 51014
+1691323615536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51001/devtools/browser/bc78924c-a1a5-4a00-87ed-49fb95b31366
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691323662872	Marionette	INFO	Stopped listening on port 51011691323664747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileWpQD9x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691323665067	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691323665267	Marionette	INFO	Listening on port 51154
+WebDriver BiDi listening on ws://127.0.0.1:51139
+Read port: 51154
+1691323665461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51139/devtools/browser/cc9791f4-5f49-451b-9769-60bc6eb712fe
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691323797233	geckodriver	INFO	Listening on 127.0.0.1:51466
+1691323800282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile5zqiGC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691323800594	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691323800810	Marionette	INFO	Listening on port 51479
+WebDriver BiDi listening on ws://127.0.0.1:51467
+Read port: 51479
+1691323800992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51467/devtools/browser/92d67c32-411e-4937-bd9a-89028742a89d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1691346974480	geckodriver	INFO	Listening on 127.0.0.1:62369
+1691346977537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileqAYYwh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691346977914	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691346978033	Marionette	INFO	Listening on port 62390
+WebDriver BiDi listening on ws://127.0.0.1:62370
+Read port: 62390
+1691346978231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62370/devtools/browser/576356d0-3acd-498a-92b5-ff191488ca1b
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691347533822	geckodriver	INFO	Listening on 127.0.0.1:64262
+1691347536863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileBayTk1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691347537241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691347537355	Marionette	INFO	Listening on port 64276
+WebDriver BiDi listening on ws://127.0.0.1:64263
+Read port: 64276
+1691347537544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64263/devtools/browser/905f2ecd-d3fe-426b-89dd-d46e1d255a9f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691347611513	geckodriver	INFO	Listening on 127.0.0.1:64457
+1691347614558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileMgeyCm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691347614831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691347614940	Marionette	INFO	Listening on port 64476
+WebDriver BiDi listening on ws://127.0.0.1:64458
+Read port: 64476
+1691347615140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64458/devtools/browser/66a2c4e2-fb8e-4de4-917f-b3e91fac5100
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691348456416	Marionette	INFO	Stopped listening on port 64476
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileu1Bikm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691348415015	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691348415130	Marionette	INFO	Listening on port 49646
+WebDriver BiDi listening on ws://127.0.0.1:49630
+Read port: 49646
+1691348415338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49630/devtools/browser/5e76f500-85ce-4068-afa8-d9ed9dcf3b29
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691348457321	Marionette	INFO	Stopped listening on port 49646
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilervFYAn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691348453787	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691348453919	Marionette	INFO	Listening on port 49784
+WebDriver BiDi listening on ws://127.0.0.1:49769
+Read port: 49784
+1691348454061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49769/devtools/browser/fb22b1e5-5496-4998-80cf-d95522f23504
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691349098557	Marionette	INFO	Stopped listening on port 49784
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileXEjh1j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691348867084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691348867212	Marionette	INFO	Listening on port 61573
+WebDriver BiDi listening on ws://127.0.0.1:61556
+Read port: 61573
+1691348867414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61556/devtools/browser/ef524005-73f5-493a-82d9-28d6dd2089bb
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691349045386	geckodriver	INFO	Listening on 127.0.0.1:61954
+1691349048436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileG3Jrqs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691349048707	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691349048819	Marionette	INFO	Listening on port 61968
+WebDriver BiDi listening on ws://127.0.0.1:61955
+Read port: 61968
+1691349049016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61955/devtools/browser/e0c56cf0-9c35-4e54-8e3c-f2694c0bd0a9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.m1691349100281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilejJS8up"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691349100552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691349100666	Marionette	INFO	Listening on port 62113
+WebDriver BiDi listening on ws://127.0.0.1:62101
+Read port: 62113
+1691349100856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62101/devtools/browser/9cbcadef-e5bd-4c03-bba3-b5817b38e1bb
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691352652535	Marionette	INFO	Stopped listening on port 62113
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile8DRIHS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691352209312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691352209434	Marionette	INFO	Listening on port 51644
+WebDriver BiDi listening on ws://127.0.0.1:51630
+Read port: 51644
+1691352209586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51630/devtools/browser/51546102-baa1-49b7-b543-e49206ac3e13
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691352653129	Marionette	INFO	Stopped listening on port 51644
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile79MLll"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691352429768	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691352429881	Marionette	INFO	Listening on port 52147
+WebDriver BiDi listening on ws://127.0.0.1:52135
+Read port: 52147
+1691352430067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52135/devtools/browser/f1037287-ca48-45cd-9e80-e3eaf750919e
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691352653799	Marionette	INFO	Stopped listening on port 52147
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofiles7zy0q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691352497505	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691352497624	Marionette	INFO	Listening on port 52328
+WebDriver BiDi listening on ws://127.0.0.1:52315
+Read port: 52328
+1691352497838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52315/devtools/browser/e50b7383-a5dd-49c9-891d-b0195a9fe7a5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691352869032	geckodriver	INFO	Listening on 127.0.0.1:53124
+1691352872081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilewXMZU6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691352872367	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691352872482	Marionette	INFO	Listening on port 53140
+WebDriver BiDi listening on ws://127.0.0.1:53125
+Read port: 53140
+1691352872663	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53125/devtools/browser/eafb6fff-c146-4726-bfcb-78ce23d9f243
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691352889242	Marionette	INFO	Stopped listening on port 53140
+Dynamically enable window occlusion 1
+1691352933804	geckodriver	INFO	Listening on 127.0.0.1:53293
+1691352936860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileYE81dg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691352937150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691352937263	Marionette	INFO	Listening on port 53307
+WebDriver BiDi listening on ws://127.0.0.1:53294
+Read port: 53307
+1691352937460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53294/devtools/browser/7c0cb1d3-7bdb-4e44-ad73-f150e339beb5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691353534449	Marionette	INFO	Stopped listening on port 53307
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileLNUICH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691353023406	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691353023518	Marionette	INFO	Listening on port 53515
+WebDriver BiDi listening on ws://127.0.0.1:53501
+Read port: 53515
+1691353023704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53501/devtools/browser/d110da51-ff59-4211-856d-b41957d1d736
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691353208808	geckodriver	INFO	Listening on 127.0.0.1:53903
+1691353211854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilewVEEWT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691353212131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691353212245	Marionette	INFO	Listening on port 53916
+WebDriver BiDi listening on ws://127.0.0.1:53904
+Read port: 53916
+1691353212458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53904/devtools/browser/0137c8db-ea83-4f0a-8966-cac425bd70a1
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450953/pagestyle20 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1691353529535	geckodriver	INFO	Listening on 127.0.0.1:54562
+1691353532590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilewSoghF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691353532875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691353533007	Marionette	INFO	Listening on port 54574
+WebDriver BiDi listening on ws://127.0.0.1:54563
+Read port: 54574
+1691353533195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54563/devtools/browser/b7919454-d30d-4230-9afd-24e9b97cd01a
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691353607612	Marionette	INFO	Stopped listening on port 54574
+Dynamically enable window occlusion 1
+1691409056166	geckodriver	INFO	Listening on 127.0.0.1:51219
+1691409059208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile2Cu82l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409059675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409059794	Marionette	INFO	Listening on port 51234
+WebDriver BiDi listening on ws://127.0.0.1:51220
+Read port: 51234
+1691409059995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51220/devtools/browser/98bebe1e-68fe-40b9-85f9-afc83fdb784d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691409092710	Marionette	INFO	Stopped listening on port 51234
+Dynamically enable window occlusion 1
+1691409094076	geckodriver	INFO	Listening on 127.0.0.1:51331
+1691409097105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileW4UvuK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409097371	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409097499	Marionette	INFO	Listening on port 51345
+WebDriver BiDi listening on ws://127.0.0.1:51332
+Read port: 51345
+1691409097674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51332/devtools/browser/eccd6ef8-d2a2-463f-a0d7-3f0bb9878978
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691409179964	geckodriver	INFO	Listening on 127.0.0.1:51522
+1691409183009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileSrQaZN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409183269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409183391	Marionette	INFO	Listening on port 51534
+WebDriver BiDi listening on ws://127.0.0.1:51523
+Read port: 51534
+1691409183574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51523/devtools/browser/65400d62-dba5-48f6-af30-3b67c2905bfa
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691409244101	geckodriver	INFO	Listening on 127.0.0.1:51676
+1691409247143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilectHYwK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409247411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409247518	Marionette	INFO	Listening on port 51691
+WebDriver BiDi listening on ws://127.0.0.1:51677
+Read port: 51691
+1691409247696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51677/devtools/browser/cbc8ad3f-b4c7-48b6-a9ac-8ebc348d2538
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691409386518	geckodriver	INFO	Listening on 127.0.0.1:51954
+1691409389559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileB65Ysn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409389829	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409389935	Marionette	INFO	Listening on port 51966
+WebDriver BiDi listening on ws://127.0.0.1:51955
+Read port: 51966
+1691409390110	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51955/devtools/browser/8bf9afc9-7e45-45de-9a00-392f273a77e4
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411777304	Marionette	INFO	Stopped listening on port 51966
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileHYorLK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691409515763	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691409515866	Marionette	INFO	Listening on port 52218
+WebDriver BiDi listening on ws://127.0.0.1:52201
+Read port: 52218
+1691409516035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52201/devtools/browser/243c1ebf-38c1-4d49-a342-e98cdc24fcc8
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411777869	Marionette	INFO	Stopped listening on port 52218
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileQ0zokE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411422712	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411422844	Marionette	INFO	Listening on port 64543
+WebDriver BiDi listening on ws://127.0.0.1:64531
+Read port: 64543
+1691411423022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64531/devtools/browser/bdd4d296-805d-417e-8c08-7364faa23e58
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411778779	Marionette	INFO	Stopped listening on port 64543
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileYgce9c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411534271	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411534390	Marionette	INFO	Listening on port 64759
+WebDriver BiDi listening on ws://127.0.0.1:64748
+Read port: 64759
+1691411534586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64748/devtools/browser/d4c503dc-6452-42b7-a2f1-ec6b837a6d1f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411779425	Marionette	INFO	Stopped listening on port 64759
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilecXMv2O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411634937	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411635058	Marionette	INFO	Listening on port 64976
+WebDriver BiDi listening on ws://127.0.0.1:64962
+Read port: 64976
+1691411635248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64962/devtools/browser/da649042-0f73-4818-8493-4f5ce90d6c81
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411780028	Marionette	INFO	Stopped listening on port 64976
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileVzhpyK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411705258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411705370	Marionette	INFO	Listening on port 65140
+WebDriver BiDi listening on ws://127.0.0.1:65128
+Read port: 65140
+1691411705626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65128/devtools/browser/b0df4455-84c1-42dc-ad74-2ea8a342d942
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411780927	Marionette	INFO	Stopped listening on port 65140
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileQF9hVd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411755729	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411755846	Marionette	INFO	Listening on port 65270
+WebDriver BiDi listening on ws://127.0.0.1:65258
+Read port: 65270
+1691411756036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65258/devtools/browser/269ba2b0-a03e-4ae7-9d96-c0e7e4113eb7
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411782428	Marionette	INFO	Stopped listening on port 65270
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileVTOzjV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411780416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411780524	Marionette	INFO	Listening on port 65352
+WebDriver BiDi listening on ws://127.0.0.1:65340
+Read port: 65352
+1691411780716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65340/devtools/browser/43be1acb-f00b-48b4-991b-9b6f67918b5d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691411913317	Marionette	INFO	Stopped listening on port 65352
+Dynamically enable window occlusion 1
+1691411914942	geckodriver	INFO	Listening on 127.0.0.1:49259
+1691411917999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileezZ653"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411918268	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411918382	Marionette	INFO	Listening on port 64375
+WebDriver BiDi listening on ws://127.0.0.1:49260
+Read port: 64375
+1691411918595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49260/devtools/browser/3ed3ffb9-b36e-4d60-9646-ce2d6f42a369
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691412051903	Marionette	INFO	Stopped listening on port 64375
+Dynamically enable window occlusion 1
+[Parent 23860, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileFcKUCc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691411967340	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691411967447	Marionette	INFO	Listening on port 64524
+WebDriver BiDi listening on ws://127.0.0.1:64507
+Read port: 64524
+1691411967629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64507/devtools/browser/9880ed54-784d-4b26-ab23-03917e628ac2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691412052907	Marionette	INFO	Stopped listening on port 64524
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileXww0rR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691412020736	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691412021003	Marionette	INFO	Listening on port 64668
+WebDriver BiDi listening on ws://127.0.0.1:64654
+Read port: 64668
+1691412021179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64654/devtools/browser/ec32b25a-2b14-4eb5-8be6-9f5d73d483b7
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691412044527	Marionette	INFO	Stopped listening on port 64668
+Dynamically enable window occlusion 1
+1691412158667	geckodriver	INFO	Listening on 127.0.0.1:50891
+1691412161703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilerCXCu3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691412162043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691412162148	Marionette	INFO	Listening on port 50905
+Read port: 50905
+WebDriver BiDi listening on ws://127.0.0.1:50892
+1691412162194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50892/devtools/browser/6205ba48-0207-4059-a216-806b2e17d86a
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691415341025	Marionette	INFO	Stopped listening on port 50905
+Dynamically enable window occlusion 1
+[Parent 24104, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileT4YMjn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691413249966	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691413250086	Marionette	INFO	Listening on port 61768
+WebDriver BiDi listening on ws://127.0.0.1:61752
+Read port: 61768
+1691413250270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61752/devtools/browser/a53c8e14-acf7-4f88-a3bf-76577cea430a
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691413417399	geckodriver	INFO	Listening on 127.0.0.1:52407
+1691413420435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilelOqnjx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691413420804	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691413420920	Marionette	INFO	Listening on port 52421
+WebDriver BiDi listening on ws://127.0.0.1:52408
+Read port: 52421
+1691413421131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52408/devtools/browser/b9ed6552-aec3-45c6-8476-6644ff1cb468
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691413435372	geckodriver	INFO	Listening on 127.0.0.1:52492
+1691413438404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileNeyn6x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691413438675	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691413438793	Marionette	INFO	Listening on port 52508
+WebDriver BiDi listening on ws://127.0.0.1:52493
+Read port: 52508
+1691413438982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52493/devtools/browser/cadec195-d0c8-4d0e-a0c3-f23af60ab3ad
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691415346135	geckodriver	INFO	Listening on 127.0.0.1:51037
+1691415349183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileKX4MHO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691415349454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691415349564	Marionette	INFO	Listening on port 51051
+WebDriver BiDi listening on ws://127.0.0.1:51038
+Read port: 51051
+1691415349746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51038/devtools/browser/e7007373-68a9-4322-a4dc-d9858f373e98
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691415479140	Marionette	INFO	Stopped listening on port 51051
+Dynamically enable window occlusion 1
+1691415534615	geckodriver	INFO	Listening on 127.0.0.1:51449
+1691415537655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileSEJK8T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691415537912	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691415538019	Marionette	INFO	Listening on port 51464
+WebDriver BiDi listening on ws://127.0.0.1:51450
+Read port: 51464
+1691415538236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51450/devtools/browser/55250aa5-ecc3-44cc-a1c2-4144bcbf0447
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1691415905013	Marionette	INFO	Stopped listening on port 51464
+Dynamically enable window occlusion 1
+ command line flag -no-sandbox\n"
+1691415780571	Marionette	INFO	Listening on port 51973
+WebDriver BiDi listening on ws://127.0.0.1:51960
+Read port: 51973
+1691415780747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51960/devtools/browser/3a2ee675-7d7e-4804-b5d7-5ce8af9f57de
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691415873328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1691415874043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1691415874759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1691415875475	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1691415894427	Marionette	INFO	Stopped listening on port 51973
+Dynamically enable window occlusion 1
+1691425041904	geckodriver	INFO	Listening on 127.0.0.1:63666
+1691425044945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileANXSk2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691425045426	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691425045556	Marionette	INFO	Listening on port 63683
+WebDriver BiDi listening on ws://127.0.0.1:63667
+Read port: 63683
+1691425045813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63667/devtools/browser/90f94d35-c174-494e-9369-8406e82248b5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691425145147	Marionette	INFO	Stopped listening on port 63683
+Dynamically enable window occlusion 1
+1691445510164	geckodriver	INFO	Listening on 127.0.0.1:62285
+1691445513200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile97vv2N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691445513634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691445513751	Marionette	INFO	Listening on port 62298
+Read port: 62298
+WebDriver BiDi listening on ws://127.0.0.1:62286
+1691445513804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62286/devtools/browser/5b63f6fe-f0ad-45d2-b51f-e4ae1cc48df8
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691445603781	geckodriver	INFO	Listening on 127.0.0.1:62433
+1691445606822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileK3i8ex"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691445607107	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691445607231	Marionette	INFO	Listening on port 62444
+WebDriver BiDi listening on ws://127.0.0.1:62434
+Read port: 62444
+1691445607411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62434/devtools/browser/2d29ddc7-3be3-43ef-9aa9-e929196f54ca
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691446032666	Marionette	INFO	Stopped listening on port 62441691446033639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileTIae7Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691446033895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691446033999	Marionette	INFO	Listening on port 62906
+WebDriver BiDi listening on ws://127.0.0.1:62895
+Read port: 62906
+1691446034171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62895/devtools/browser/29f76825-6f67-4930-a7ac-9450dd5b9b11
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691446158325	Marionette	INFO	Stopped listening on port 62906
+Dynamically enable window occlusion 1
+[Parent 26060, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1691447070466	geckodriver	INFO	Listening on 127.0.0.1:64037
+1691447073492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofiletO4zQD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691447073757	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691447073871	Marionette	INFO	Listening on port 64051
+WebDriver BiDi listening on ws://127.0.0.1:64038
+Read port: 64051
+1691447074086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64038/devtools/browser/4bedde78-8142-4b75-9532-3f8c152c62af
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691447234529	Marionette	INFO	Stopped listening on port 64051
+Dynamically enable window occlusion 1
+1691488923858	geckodriver	INFO	Listening on 127.0.0.1:64105
+1691488926937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileEMWIjG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691488927355	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691488927451	Marionette	INFO	Listening on port 64121
+WebDriver BiDi listening on ws://127.0.0.1:64106
+Read port: 64121
+1691488927643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64106/devtools/browser/721b2b44-249a-4b4f-ac38-86133d0288b9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691489073884	Marionette	INFO	Stopped listening on port 64121
+Dynamically enable window occlusion 1
+1691489082750	geckodriver	INFO	Listening on 127.0.0.1:64240
+1691489085780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofilelXVOUc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489086037	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489086136	Marionette	INFO	Listening on port 64251
+WebDriver BiDi listening on ws://127.0.0.1:64241
+Read port: 64251
+1691489086298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/85c6f14b-8ae9-4d08-8695-86ea82b1a4ce
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691489142880	geckodriver	INFO	Listening on 127.0.0.1:64328
+1691489145918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileJi1kxX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489146152	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489146240	Marionette	INFO	Listening on port 64337
+WebDriver BiDi listening on ws://127.0.0.1:64329
+Read port: 64337
+1691489146386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64329/devtools/browser/46a80183-6467-4df7-acdf-7e96db1e33a0
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691489937101	Marionette	INFO	Stopped listening on port 64337
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileBBhmPK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489710156	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489710246	Marionette	INFO	Listening on port 64722
+WebDriver BiDi listening on ws://127.0.0.1:64714
+Read port: 64722
+1691489710397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64714/devtools/browser/2bfb4122-de50-4b9d-a995-5fd1c66fcae5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1691489934926	Marionette	INFO	Stopped listening on port 64722
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileFOHI8N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489868262	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489868380	Marionette	INFO	Listening on port 64856
+WebDriver BiDi listening on ws://127.0.0.1:64848
+Read port: 64856
+1691489868691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64848/devtools/browser/1d4658db-5bcc-4fed-bd36-f0423c12c783
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691489934029	Marionette	INFO	Stopped listening on port 64856
+Dynamically enable window occlusion 1
+1691489936761	geckodriver	INFO	Listening on 127.0.0.1:64931
+1691489939798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileE8BzCm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489940046	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489940133	Marionette	INFO	Listening on port 64962
+WebDriver BiDi listening on ws://127.0.0.1:64932
+Read port: 64962
+1691489940303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64932/devtools/browser/3c272439-a93c-4b65-b672-bccf0b798242
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691489989516	Marionette	INFO	Stopped listening on port 64962
+Dynamically enable window occlusion 1
+1691489991641	geckodriver	INFO	Listening on 127.0.0.1:50513
+1691489994676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofileQ8nC3P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691489994929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691489995023	Marionette	INFO	Listening on port 63486
+WebDriver BiDi listening on ws://127.0.0.1:50514
+Read port: 63486
+1691489995208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50514/devtools/browser/cdc75286-8de4-4858-9980-0d120a5f772a
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691490087328	Marionette	INFO	Stopped listening on port 63486
+Dynamically enable window occlusion 1
+1691490090362	geckodriver	INFO	Listening on 127.0.0.1:52455
+1691490093399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--window-size=1920,1080" "--no-sandbox" "- ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Kjetil\\AppData\\Local\\Temp\\rust_mozprofile1oufn9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691490093653	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag -window-size\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+1691490093901	Marionette	INFO	Listening on port 58125
+WebDriver BiDi listening on ws://127.0.0.1:52456
+Read port: 58125
+1691490094108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52456/devtools/browser/04cc72e5-7c6a-4da7-9605-fba857292e88
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1691490190218	Marionette	INFO	Stopped listening on port 58125
+Dynamically enable window occlusion 1
