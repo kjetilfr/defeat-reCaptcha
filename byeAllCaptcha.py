@@ -16,6 +16,7 @@ import json
 def set_captcha_frames(driver):
     print("set_captcha_frames")
     global check_box_iframe, image_iframe
+    time.sleep(1)
     recaptchaFrames = WebDriverWait(driver, 10).until(
         EC.presence_of_all_elements_located((By.TAG_NAME, "iframe")))
 
