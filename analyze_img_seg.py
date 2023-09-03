@@ -61,6 +61,16 @@ def boxClick(boxesTuple, fullGrid):
 
 
 def get_click_array(classNbr):
+    # Load YOLOv8n-seg, train it on COCO128-seg for 3 epochs and predict an image with it    
+    model = YOLO('yolov8m-seg.pt')  # load a pretrained YOLOv8n segmentation model
+    model.train(data='coco128-seg.yaml', epochs=3)  # train the model
+    results = model('payload4.jpg')  # predict on an image
+    result = results[0]
+
+    img = Image.fromarray(result.plot()[:, :, ::-1])
+
+    img.show()
+
     model = YOLO("yolov8m.pt")
 
     # results = model.predict("payload4.jpg")
